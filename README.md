@@ -1,5 +1,5 @@
 # calculation-method
-exp1：Gauss
+exp1: Gauss
 
 exp2: Newton
 
